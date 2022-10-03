@@ -11,7 +11,17 @@
          "district": "Malappuram",
          "state": "Kerala",
          "country": "India" 
-      }
+      },
+       {
+         "name": "Mohammed Roshan T",
+         "userName": "MohammedRoshanT",
+         "phone": "+918848859106",
+         "bloodGroup": "A+",
+         "address": "Thankayathil House", 
+         "district": "Malappuram",
+         "state": "Kerala",
+         "country": "India" 
+      },
      
    ]
 }
