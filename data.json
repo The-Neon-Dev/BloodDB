@@ -1,0 +1,17 @@
+{
+   "data":[
+      
+  
+      {
+         "name": "Enter your Name",
+         "userName": "The-Neon-Dev",
+         "phone": "+91xxxxxxxxxx",
+         "bloodGroup": "A+",
+         "address": "Address", 
+         "district": "Malappuram",
+         "state": "Kerala",
+         "country": "India" 
+      }
+     
+   ]
+}
